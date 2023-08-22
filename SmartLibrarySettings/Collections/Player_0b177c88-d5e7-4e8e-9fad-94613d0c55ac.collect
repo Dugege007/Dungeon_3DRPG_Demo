@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: b1d004f6a9e57d48881aa9b220213d8f
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Player
+  _id:
+    _serializedGuid: 887c170be7d58e4e9fad94613d0c55ac
+  _icon: {fileID: 0}
+  _rules:
+    _rules: []
+  _items:
+    _hashSetList:
+    - dcea6edf38ddd554faef984cc233ef3d
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders:
+  - _matchOption: 0
+    _folderGuid: 031aff57c58bc9f43bb33665e21775ee
+    _doInclude: 1
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f0b97dba2ea70143863bf15eee4ef39, type: 3}
+  m_Name: MonsterEye ItemData
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemID: 2
+  itemName: "\u602A\u7269\u773C\u775B"
+  icon: {fileID: 21300000, guid: b6cb84f00541e4d45a3ee28345708e4b, type: 3}
+  amount: 1
+  isStackable: 0
+  description: "\u8C01\u7684\u773C\u775B\u843D\u5728\u8FD9\u4E86\uFF1F\n\u597D\u6076\u5FC3\uFF0C\u4F46\u662F\u53EA\u8981\u80FD\u586B\u9971\u809A\u5B50...\n<color=red>MaxHP-10</color>\n<color=green>HP+5</color>"
+  useableItemData: {fileID: 11400000, guid: 6d41096ddb148e54eb9267616b86cc10, type: 2}
+  weaponData: {fileID: 0}

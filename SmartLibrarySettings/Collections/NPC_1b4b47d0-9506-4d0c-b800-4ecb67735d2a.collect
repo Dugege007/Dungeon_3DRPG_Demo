@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: NPC
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: b1d004f6a9e57d48881aa9b220213d8f
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: NPC
+  _id:
+    _serializedGuid: d0474b1b06950c4db8004ecb67735d2a
+  _icon: {fileID: 0}
+  _rules:
+    _rules: []
+  _items:
+    _hashSetList: []
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders:
+  - _matchOption: 1
+    _folderGuid: 9996b19ba128c8e40a644cfa2aa5ed65
+    _doInclude: 1
+  references:
+    version: 2
+    RefIds: []

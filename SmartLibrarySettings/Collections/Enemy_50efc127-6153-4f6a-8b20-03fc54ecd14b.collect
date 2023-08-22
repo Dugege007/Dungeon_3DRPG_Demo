@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1f6edf7219569c4ca5c598f8a320068, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  _root: {fileID: 0}
+  _parent: {fileID: 0}
+  _parentID:
+    _serializedGuid: b1d004f6a9e57d48881aa9b220213d8f
+  _subcollections: []
+  _subcollectionIDs: []
+  _collectionName: Enemy
+  _id:
+    _serializedGuid: 27c1ef5053616a4f8b2003fc54ecd14b
+  _icon: {fileID: 0}
+  _rules:
+    _rules: []
+  _items:
+    _hashSetList:
+    - c1304979eddac5b4dbf389e948b23e54
+    - c7fe8a9babaab2846b6e36792e0051f2
+    - 1ec985bd82447654b9b046ad87307db8
+  _itemDisplaySize: 100
+  _viewStyle: 0
+  _useCollectionViewSettings: 0
+  _folders:
+  - _matchOption: 0
+    _folderGuid: 9dff44c671993f840a535f12420285f1
+    _doInclude: 1
+  references:
+    version: 2
+    RefIds: []
